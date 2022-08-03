@@ -48,7 +48,7 @@ crontab -e
 ```
 
 ### MIBs
-- [GEPON-OLT-COMMON-MIB]([https://crontab.guru/](http://www.circitor.fr/Mibs/Html/G/GEPON-OLT-COMMON-MIB.php))
+- [GEPON-OLT-COMMON-MIB](http://www.circitor.fr/Mibs/Html/G/GEPON-OLT-COMMON-MIB.php)
 
 ### Itens Zabbix Trapper
 ![](xxx)
