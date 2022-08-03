@@ -2,7 +2,7 @@
 Script de automação
 
 ## Sobre
-Script desenvolvido em `Python` utilizando a biblioteca `Subprocess` e `Os` para executar comandos em shell em uma maquina `Linux` para coletar os dados via `SNMPWALK` e enviar as informações coletadas por meio de `zabbix_sender` para o servidor `Zabbix`, que integrado ao `Grafana` apresentaria as informações de forma organizada.
+Script desenvolvido em `Python` utilizando a biblioteca `Subprocess` e `Os` para executar comandos em shell em uma maquina `Linux` para coletar os dados via `SNMPWALK` de RX Power da OLT e ONUs, enviando as informações coletadas por meio de `zabbix_sender` para o servidor `Zabbix`, que integrado ao `Grafana` apresenta as informações de forma organizada.
 
 ### Versões usadas
 ```
