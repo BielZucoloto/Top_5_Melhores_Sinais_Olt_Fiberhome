@@ -55,3 +55,11 @@ crontab -e
 
 ### Tabela no Grafana
 ![](tabela_grafana.png)
+
+### Créditos
+__Desenvolvido por:__
+```
+Gabriel Aparecido Zucoloto
+```
+- [Linkedin](https://www.linkedin.com/in/gabriel-zucoloto-51a51b231)
+- [Portfolio](https://bielzucoloto.github.io/)
