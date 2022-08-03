@@ -51,7 +51,7 @@ crontab -e
 - [GEPON-OLT-COMMON-MIB](http://www.circitor.fr/Mibs/Html/G/GEPON-OLT-COMMON-MIB.php)
 
 ### Itens Zabbix Trapper
-![](xxx)
+![](item_zabbix_trapper.png)
 
 ### Tabela no Grafana
-![](xxx)
+![](tabela_grafana.png)
